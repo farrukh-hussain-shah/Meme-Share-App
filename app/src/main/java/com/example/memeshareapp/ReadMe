@@ -1,0 +1,6 @@
+in this we first  desing a UI
+
+then we add dependencies then we make app permission INTERNET in manifest>
+<uses-permission android:name="android.permission.INTERNET"/>
+
+then we add code in MainActivity (url)
